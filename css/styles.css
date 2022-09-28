@@ -36,7 +36,7 @@ h1 {  font-family: "Monserrat-Black";
     }
     /* Testimonial */
     #testimonials{
-      padding: 7% 15%;
+    
       text-align: center;
       background-color: #ef8172;
       color: #fff;
@@ -46,7 +46,9 @@ h1 {  font-family: "Monserrat-Black";
       margin: 20px;
       border-radius: 100%;
     }
-
+   .carousel-item{
+    padding: 7% 15%;
+   }
 
     /* Navigation Bar */
    
@@ -87,4 +89,8 @@ h1 {  font-family: "Monserrat-Black";
   background-color: #ef8172;
   text-align: center;
   padding-bottom: 3%;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
 }
